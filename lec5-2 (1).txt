@@ -1,0 +1,14 @@
+int Arr[10];
+Array of type int
+Array name  - Arr
+size of Array - 10
+
+Note: in c++ array indexing starts from 0
+int Arr[10]
+Arr[0] Arr[1] Arr[2].......Array-Name[index]
+
+how to Access elements in array 
+ a particular element of the array can be accessed by specifying two things:
+name of the array  
+index(relative position) of the element in the array 
+important to remember: in c, the index of array starts from 0, not 1
